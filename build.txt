@@ -2,3 +2,4 @@ displayName = Tooltip Icons
 author = Potat369
 version = 0.1
 side = Client
+homepage = https://github.com/Potat369/TooltipIcons

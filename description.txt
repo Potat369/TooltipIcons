@@ -1,0 +1,3 @@
+TooltipIcons mod gives new look for tooltips.
+
+Mod may bug, and not everything is implemented yet.

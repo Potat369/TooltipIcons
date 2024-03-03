@@ -1,0 +1,9 @@
+TooltipIcons mod gives new look for tooltips.
+
+Mod may bug, and not everything is implemented yet.
+
+If you have anything to say write me in [url=https://discord.com/users/629733729170096156] Discord [/url].
+
+You can find example here: https://youtu.be/Nyc_zIV_3uo
+
+You can find source and additional examples here: https://github.com/Potat369/TooltipIcons
