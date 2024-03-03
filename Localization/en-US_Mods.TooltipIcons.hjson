@@ -1,1 +1,265 @@
-# This file will automatically update with entries for new content after a build and reload
+Configs: {
+	TooltipIconsConfig: {
+		DisplayName: Tooltip Icons Config
+
+		DebugMode: {
+			Label: Debug Mode
+			Tooltip: Use it to Display Tooltip Name Instead of Icon.
+		}
+
+		Style: {
+			Label: Style
+			Tooltip: Use to change Style of Icons in Game.
+		}
+	}
+
+	DebugConfig: {
+		DisplayName: Debug Config
+
+		DebugMode: {
+			Label: Debug Mode
+			Tooltip: ""
+		}
+	}
+
+	VisualConfig: {
+		DisplayName: Visual Config
+
+		WhiteSpace: {
+			Label: White Space
+			Tooltip: ""
+		}
+	}
+}
+
+Items: {
+	Ammo: {
+		DisplayName: Ammo
+		Tooltip: ""
+	}
+
+	HealLife: {
+		DisplayName: Heal Life
+		Tooltip: ""
+	}
+
+	Damage: {
+		DisplayName: Damage
+		Tooltip: ""
+	}
+
+	Favorite: {
+		DisplayName: Favorite
+		Tooltip: ""
+	}
+
+	Consumable: {
+		DisplayName: Consumable
+		Tooltip: ""
+	}
+
+	CritChance: {
+		DisplayName: Crit Chance
+		Tooltip: ""
+	}
+
+	Defense: {
+		DisplayName: Defense
+		Tooltip: ""
+	}
+
+	SocialDesc: {
+		DisplayName: Social Desc
+		Tooltip: ""
+	}
+
+	Social: {
+		DisplayName: Social
+		Tooltip: ""
+	}
+
+	Equipable: {
+		DisplayName: Equipable
+		Tooltip: ""
+	}
+
+	FavoriteDesc: {
+		DisplayName: Favorite Desc
+		Tooltip: ""
+	}
+
+	PrefixAccMoveSpeed: {
+		DisplayName: Prefix Acc Move Speed
+		Tooltip: ""
+	}
+
+	PrefixAccDefense: {
+		DisplayName: Prefix Acc Defense
+		Tooltip: ""
+	}
+
+	PickPower: {
+		DisplayName: Pick Power
+		Tooltip: ""
+	}
+
+	HammerPower: {
+		DisplayName: Hammer Power
+		Tooltip: ""
+	}
+
+	Speed: {
+		DisplayName: Speed
+		Tooltip: ""
+	}
+
+	FishingPower: {
+		DisplayName: Fishing Power
+		Tooltip: ""
+	}
+
+	BuffTime: {
+		DisplayName: Buff Time
+		Tooltip: ""
+	}
+
+	UseMana: {
+		DisplayName: Use Mana
+		Tooltip: ""
+	}
+
+	Placeable: {
+		DisplayName: Placeable
+		Tooltip: ""
+	}
+
+	Quest: {
+		DisplayName: Quest
+		Tooltip: ""
+	}
+
+	BaitPower: {
+		DisplayName: Bait Power
+		Tooltip: ""
+	}
+
+	Price: {
+		DisplayName: Price
+		Tooltip: ""
+	}
+
+	Vanity: {
+		DisplayName: Vanity
+		Tooltip: ""
+	}
+
+	AxePower: {
+		DisplayName: Axe Power
+		Tooltip: ""
+	}
+
+	TileBoost: {
+		DisplayName: Tile Boost
+		Tooltip: ""
+	}
+
+	Material: {
+		DisplayName: Material
+		Tooltip: ""
+	}
+
+	WandConsumes: {
+		DisplayName: Wand Consumes
+		Tooltip: ""
+	}
+
+	NeedsBait: {
+		DisplayName: Needs Bait
+		Tooltip: ""
+	}
+
+	HealMana: {
+		DisplayName: Heal Mana
+		Tooltip: ""
+	}
+
+	Knockback: {
+		DisplayName: Knockback
+		Tooltip: ""
+	}
+
+	Tooltip: {
+		DisplayName: Tooltip
+		Tooltip: ""
+	}
+
+	PrefixKnockback: {
+		DisplayName: Prefix Knockback
+		Tooltip: ""
+	}
+
+	PrefixAccSize: {
+		DisplayName: Prefix Acc Size
+		Tooltip: ""
+	}
+
+	PrefixAccDamage: {
+		DisplayName: Prefix Acc Damage
+		Tooltip: ""
+	}
+
+	SpecialPrice: {
+		DisplayName: Special Price
+		Tooltip: ""
+	}
+
+	PrefixMeleeSpeed: {
+		DisplayName: Prefix Melee Speed
+		Tooltip: ""
+	}
+
+	PrefixAccSpeed: {
+		DisplayName: Prefix Acc Speed
+		Tooltip: ""
+	}
+
+	PrefixShootSpeed: {
+		DisplayName: Prefix Shoot Speed
+		Tooltip: ""
+	}
+
+	SetBonus: {
+		DisplayName: Set Bonus
+		Tooltip: ""
+	}
+
+	PrefixAccMaxMana: {
+		DisplayName: Prefix Acc Max Mana
+		Tooltip: ""
+	}
+
+	PrefixDamage: {
+		DisplayName: Prefix Damage
+		Tooltip: ""
+	}
+
+	Expert: {
+		DisplayName: Expert
+		Tooltip: ""
+	}
+
+	PrefixAccCritChance: {
+		DisplayName: Prefix Acc Crit Chance
+		Tooltip: ""
+	}
+
+	PrefixArmor: {
+		DisplayName: Prefix Armor
+		Tooltip: ""
+	}
+
+	PrefixUseMana: {
+		DisplayName: Prefix Use Mana
+		Tooltip: ""
+	}
+}
